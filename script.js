@@ -1,10 +1,11 @@
 //your JS code here. If required.
-
 let student={
-	let name={
-		
-	}
+	
+function name(){
+	
+}
+
 	__proto__:function getKeys(){
-		object.keys(this.name);
+	return object.keys(student)
 	}
 }
